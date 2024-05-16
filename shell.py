@@ -1,4 +1,4 @@
-import basic
+import Lexer
 
 while True:
     text = input('basic > ')
